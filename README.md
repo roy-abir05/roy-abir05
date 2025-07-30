@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/Blue Modern Corporate Staff Profile LinkedIn Banner.png" alt="Abir Roy's Profile Banner"/>
+</p>
+
 # 💫 About Me:
 ## 👋 Hi, I’m Abir Roy<br>Engineer | Builder | Problem Solver<br>Passionate about open-source, decentralized tech, clean design and competitive programming.<br><br>🔭 I’m currently working on bridging Web2 and Web3 with my blockchain project, TrueCred!<br>👯 I’m looking to collaborate on innovative open-source projects, especially those involving web3 & full-stack web development<br>🤝 I’m looking for help with diving deeper into decentralized application architecture and smart contract development.<br>🌱 I’m currently learning all about the exciting fields of Artificial Intelligence and Machine Learning.<br>💬 Ask me about full stack development, community projects, or my journey into the blockchain space.<br>⚡ Fun fact: I built an expense tracker before I had expenses<br><br>
 
